@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-<img aligh=“center” src=“awesome.jpg”>
+<div class="myface">
+  <img src="awesome.jpg" alt="Myimage" />
+</div>
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
