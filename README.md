@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="profile_pic.jpeg" alt="Shreya Agrawal" width="150" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Shreya Agrawal</h1>
 
